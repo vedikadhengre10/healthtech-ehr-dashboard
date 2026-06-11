@@ -96,8 +96,6 @@ PulseCore/
 ## 🚀 How to Run
 
 1. Clone the repository
-
-```bash
 git clone https://github.com/your-username/pulsecore-ehr-dashboard.git
 
 2.Open the project folder
